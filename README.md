@@ -1,4 +1,4 @@
 This is an upstream readme file | Fork added this text
 Upstream made changes to this file
-Yet another change made by upstream
+Fork replaced line 3 with this
 Upstream's new function in line 4
